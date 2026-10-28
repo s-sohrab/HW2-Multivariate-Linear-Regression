@@ -138,5 +138,4 @@ This repository is shared for **educational purposes** as part of a course assig
 
 ## 👤 Author
 
-**Sohrab** — [@s-sohrab](https://github.com/s-sohrab)
-```
+**Samad Sohrab** — [@s-sohrab](https://github.com/s-sohrab)
