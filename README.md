@@ -7,7 +7,7 @@ A clean, end-to-end implementation of **multivariate linear regression** using `
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 The goal is to model the relationship between multiple input features and a continuous target, and to understand how each feature contributes to the prediction. The assignment specifically highlights three learning objectives:
 
@@ -18,7 +18,7 @@ The goal is to model the relationship between multiple input features and a cont
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Train a linear regression model that predicts **house price** from:
 
@@ -38,7 +38,7 @@ where `ε ~ N(0, 500²)` is additive Gaussian noise. A well-fit model should rec
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 HW2-Multivariate-Linear-Regression/
@@ -48,7 +48,7 @@ HW2-Multivariate-Linear-Regression/
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 The notebook follows a clean, reproducible pipeline:
 
@@ -63,7 +63,7 @@ The notebook follows a clean, reproducible pipeline:
 
 ---
 
-## 📊 Results
+##  Results
 
 The model is evaluated on both the training and test sets to detect underfitting/overfitting. Key outputs include:
 
@@ -76,7 +76,7 @@ The model is evaluated on both the training and test sets to detect underfitting
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -91,7 +91,7 @@ The model is evaluated on both the training and test sets to detect underfitting
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Option 1 — Open directly in Google Colab
 
@@ -110,7 +110,7 @@ Then run all cells from top to bottom (`Runtime → Run all` in Colab, or `Cell 
 
 ---
 
-## 📈 Key Takeaways
+##  Key Takeaways
 
 - Linear regression recovers the true underlying coefficients almost exactly when the data-generating process is linear and features are independent.
 - R² and MSE together give a clearer picture than either metric alone — R² for explained variance, MSE for absolute error magnitude.
@@ -130,7 +130,7 @@ Their instruction and feedback made this exercise a valuable learning experience
 
 ---
 
-## 📄 License
+##  License
 
 This repository is shared for **educational purposes** as part of a course assignment. Please credit the author if you reuse or adapt the material.
 
@@ -140,6 +140,3 @@ This repository is shared for **educational purposes** as part of a course assig
 
 **Sohrab** — [@s-sohrab](https://github.com/s-sohrab)
 ```
-
----
-
