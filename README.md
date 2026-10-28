@@ -1,10 +1,4 @@
-حتماً. یک README حرفه‌ای، تخصصی و انگلیسی برات می‌نویسم که هم برای استاد و TA قابل ارائه باشه، هم در گیت‌هاب استاندارد به نظر برسه.
 
-فقط قبل از کپی کردن، این نکته رو در نظر بگیر: چون فایل نوت‌بوک رو در گیت‌هاب آپلود کردی، اسمش `ML_HW2_Multivariate_LinearRegression.ipynb` هست. در README هم از همین اسم استفاده می‌کنم تا لینک دقیق باشه.
-
----
-
-## 📄 متن README (کپی کن در فایل `README.md`)
 
 ```markdown
 # Multivariate Linear Regression — House Price Prediction
