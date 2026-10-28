@@ -143,20 +143,3 @@ This repository is shared for **educational purposes** as part of a course assig
 
 ---
 
-## 🚀 قدم بعدی: آپلود README در گیت‌هاب
-
-1. برو به ریپوی خودت: `https://github.com/s-sohrab/HW2-Multivariate-Linear-Regression`
-2. روی دکمه **`Add file`** (بالای صفحه) کلیک کن و **`Create new file`** رو انتخاب کن.
-3. در کادر اسم فایل، بنویس: `README.md`
-4. متن بالا رو کامل کپی کن و در کادر بزرگ محتوا پیست کن.
-5. پایین صفحه، در قسمت **Commit message** بنویس:
-   ```
-   Add professional README with acknowledgements
-   ```
-6. روی **`Commit new file`** کلیک کن.
-
----
-
-بعد از آپلود README، برگرد تا بریم سراغ گزارش Word. 📄
-
-**سوال:** README رو آپلود کردی؟ اگر بله، بریم سراغ گزارش. اگر خواستی متن README رو کمی کوتاه‌تر یا بلندتر کنم، بگو.
